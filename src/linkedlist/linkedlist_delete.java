@@ -1,3 +1,5 @@
+package linkedlist;
+
 public class linkedlist_delete {
     Node head;
 
